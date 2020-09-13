@@ -3,7 +3,7 @@ System programs
 
 # Project Title
 
-Application which accept file name from user and open that file.
+Applications which process the system call related to inode (file system).
 
 ## Getting Started
 
